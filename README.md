@@ -1,1 +1,1 @@
-https://v0-next-js-medical-app-beta.vercel.app
+https://v0-multi-disease-prediction-system.vercel.app/
